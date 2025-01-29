@@ -1,0 +1,9 @@
+{
+	"name": "adf-poo-practice",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73f119de-15f5-4dd0-a0c8-64f30dfbc06c",
+		"tenantId": "bca8f423-0bef-488a-920c-b17f7d4a39be"
+	}
+}
